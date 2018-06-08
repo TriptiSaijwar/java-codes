@@ -53,6 +53,8 @@ public class ObjectPassedByValueOrReference {
             //When an object reference is passed to a method, the reference itself is passed by use of call-by-value.
             //However, since the value being passed refers to an object, the copy of that value will still refer to the same object that its corresponding argument does.
             // That’s why we said that java is strictly pass-by-value.
+            //C and C++ both support call by value as well as call by reference whereas Java does’nt support call by reference.
+            //https://stackoverflow.com/questions/12757841/are-arrays-passed-by-value-or-passed-by-reference-in-java
 
 
         }
