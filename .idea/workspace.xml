@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d19e565-c71b-4d1e-9f27-dc94a8c35316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/MissingAndRepeatNumberArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Flip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/MaxNonNegativeSubArray.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" afterPath="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,20 +43,8 @@
       <file leaf-file-name="AddOneToNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/AddOneToNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
+            <state relative-caret-position="293">
               <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxSumContinuosSubarray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MaxSumContinuosSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,11 +64,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MissingAndRepeatNumberArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MissingAndRepeatNumberArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/MissingAndRepeatNumberArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="309">
+              <caret line="74" column="5" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Flip.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Flip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxNonNegativeSubArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/MaxNonNegativeSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="636">
+              <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" />
         <option value="$PROJECT_DIR$/src/com/company/PassingAndRepeatNumberArray.java" />
         <option value="$PROJECT_DIR$/src/com/company/MissingAndRepeatNumberArray.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MaxNonNegativeSubArray.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Flip.java" />
       </list>
     </option>
   </component>
@@ -397,26 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/AddOneToNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MaxSumContinuosSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -440,10 +434,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MaxSumContinuosSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AddOneToNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="46" column="56" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/MissingAndRepeatNumberArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="74" column="5" lean-forward="true" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+        <state relative-caret-position="309">
+          <caret line="74" column="5" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MaxNonNegativeSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Flip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="43" column="22" lean-forward="false" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
