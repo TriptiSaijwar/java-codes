@@ -24,7 +24,9 @@ public class Main {
 //          SpiralOrderMatrix spiralOrderMatrix = new SpiralOrderMatrix();
 //          spiralOrderMatrix.takeCustomInput();
 
-        NobleInteger nobleInteger = new NobleInteger();
-        nobleInteger.takeCustomInput();
+//        NobleInteger nobleInteger = new NobleInteger();
+//        nobleInteger.takeCustomInput();
+        LargestNumber largestNumber = new LargestNumber();
+        largestNumber.takeCustomInput();
     }
 }

@@ -12,7 +12,7 @@ public class NobleInteger {
             return -1;
         }
 
-        Collections.sort(A);
+        Collections.sort(A); //increasing order
         for (int i = 1; i < A.size(); i++) {
             if (A.get(i) ==  A.get(i-1)) {
                 continue;
