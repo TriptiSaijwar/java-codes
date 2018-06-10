@@ -36,9 +36,9 @@ public class ObjectPassedByValueOrReference {
         }
 
     // Driver class
-    public static class Test
+    public  class Test
     {
-        public static void main(String args[])
+        public  void main(String args[])
         {
             ObjectPassedByValueOrReference ob1 = new ObjectPassedByValueOrReference(100, 22);
             ObjectPassedByValueOrReference ob2 = new ObjectPassedByValueOrReference(100, 22);
