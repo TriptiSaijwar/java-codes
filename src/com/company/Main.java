@@ -21,7 +21,10 @@ public class Main {
 //        MaxSumContinuosSubarray maxSumContinuosSubarray = new MaxSumContinuosSubarray();
 //        maxSumContinuosSubarray.takeCustomInput();
 
-          SpiralOrderMatrix spiralOrderMatrix = new SpiralOrderMatrix();
-          spiralOrderMatrix.takeCustomInput();
+//          SpiralOrderMatrix spiralOrderMatrix = new SpiralOrderMatrix();
+//          spiralOrderMatrix.takeCustomInput();
+
+        NobleInteger nobleInteger = new NobleInteger();
+        nobleInteger.takeCustomInput();
     }
 }
