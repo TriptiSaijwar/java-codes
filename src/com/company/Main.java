@@ -30,7 +30,9 @@ public class Main {
 //        largestNumber.takeCustomInput();
 //        HotelBookings hotelBookings = new HotelBookings();
 //        hotelBookings.takeCustomInput();
-        MaxDistance maxDistance = new MaxDistance();
-        maxDistance.takeCustomInput();
+//        MaxDistance maxDistance = new MaxDistance();
+//        maxDistance.takeCustomInput();
+        DuplicateInArray duplicateInArray = new DuplicateInArray();
+        duplicateInArray.takeCustomInput();
     }
 }
