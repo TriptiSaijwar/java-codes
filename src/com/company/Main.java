@@ -26,7 +26,9 @@ public class Main {
 
 //        NobleInteger nobleInteger = new NobleInteger();
 //        nobleInteger.takeCustomInput();
-        LargestNumber largestNumber = new LargestNumber();
-        largestNumber.takeCustomInput();
+//        LargestNumber largestNumber = new LargestNumber();
+//        largestNumber.takeCustomInput();
+        HotelBookings hotelBookings = new HotelBookings();
+        hotelBookings.takeCustomInput();
     }
 }
