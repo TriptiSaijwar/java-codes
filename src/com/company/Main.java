@@ -28,7 +28,9 @@ public class Main {
 //        nobleInteger.takeCustomInput();
 //        LargestNumber largestNumber = new LargestNumber();
 //        largestNumber.takeCustomInput();
-        HotelBookings hotelBookings = new HotelBookings();
-        hotelBookings.takeCustomInput();
+//        HotelBookings hotelBookings = new HotelBookings();
+//        hotelBookings.takeCustomInput();
+        MaxDistance maxDistance = new MaxDistance();
+        maxDistance.takeCustomInput();
     }
 }

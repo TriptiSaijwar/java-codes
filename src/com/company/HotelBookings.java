@@ -22,7 +22,7 @@ public class HotelBookings {
         int dIndex = 0;
 
         int currentRooms = 0;
-//        int max =0;
+//        int max =0; at a point max this many rooms are required
         while(aIndex < arrive.size() && dIndex < arrive.size()){
             if(arrive.get(aIndex) < depart.get(dIndex)) {
                 aIndex++;
