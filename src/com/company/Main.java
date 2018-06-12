@@ -32,7 +32,11 @@ public class Main {
 //        hotelBookings.takeCustomInput();
 //        MaxDistance maxDistance = new MaxDistance();
 //        maxDistance.takeCustomInput();
-        DuplicateInArray duplicateInArray = new DuplicateInArray();
-        duplicateInArray.takeCustomInput();
+//        DuplicateInArray duplicateInArray = new DuplicateInArray();
+//        duplicateInArray.takeCustomInput();
+//        RotateMatrix rotateMatrix = new RotateMatrix();
+//        rotateMatrix.takeCustomInput();
+        NextPermutation nextPermutation = new NextPermutation();
+        nextPermutation.takeCustomInput();
     }
 }
