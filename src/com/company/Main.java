@@ -36,7 +36,9 @@ public class Main {
 //        duplicateInArray.takeCustomInput();
 //        RotateMatrix rotateMatrix = new RotateMatrix();
 //        rotateMatrix.takeCustomInput();
-        NextPermutation nextPermutation = new NextPermutation();
-        nextPermutation.takeCustomInput();
+//        NextPermutation nextPermutation = new NextPermutation();
+//        nextPermutation.takeCustomInput();
+        FirstMissingInteger firstMissingInteger = new FirstMissingInteger();
+        firstMissingInteger.takeCustomInput();
     }
 }
