@@ -1,4 +1,4 @@
-package com.company;
+package com.company.interviewBit;
 
 import sun.nio.cs.ext.MacThai;
 

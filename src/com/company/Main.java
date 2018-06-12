@@ -1,9 +1,6 @@
 package com.company;
 
-import java.io.BufferedReader;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import com.company.interviewBit.FirstMissingInteger;
 
 public class Main {
 

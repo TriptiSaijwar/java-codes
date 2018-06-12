@@ -1,4 +1,4 @@
-package com.company;
+package com.company.interviewBit;
 
 import org.omg.PortableInterceptor.INACTIVE;
 
