@@ -1,6 +1,8 @@
 package com.company;
 
 import com.company.interviewBit.FirstMissingInteger;
+import com.company.interviewBit.Level3.GenerateallParentheses;
+import com.company.interviewBit.Level3.KthSmallestElement;
 
 public class Main {
 
@@ -35,7 +37,11 @@ public class Main {
 //        rotateMatrix.takeCustomInput();
 //        NextPermutation nextPermutation = new NextPermutation();
 //        nextPermutation.takeCustomInput();
-        FirstMissingInteger firstMissingInteger = new FirstMissingInteger();
-        firstMissingInteger.takeCustomInput();
+//        FirstMissingInteger firstMissingInteger = new FirstMissingInteger();
+//        firstMissingInteger.takeCustomInput();
+//        KthSmallestElement kthSmallestElement = new KthSmallestElement();
+//        kthSmallestElement.takeCustomInput();
+        GenerateallParentheses generateallParentheses = new GenerateallParentheses();
+        generateallParentheses.isValid("((((([{()}[]]]{{{[]}}})))))");
     }
 }
