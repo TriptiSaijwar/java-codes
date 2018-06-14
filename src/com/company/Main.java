@@ -3,6 +3,7 @@ package com.company;
 import com.company.interviewBit.FirstMissingInteger;
 import com.company.interviewBit.Level3.GenerateallParentheses;
 import com.company.interviewBit.Level3.KthSmallestElement;
+import com.company.interviewBit.Level3.LargestRectangleinHistogram;
 
 public class Main {
 
@@ -41,7 +42,9 @@ public class Main {
 //        firstMissingInteger.takeCustomInput();
 //        KthSmallestElement kthSmallestElement = new KthSmallestElement();
 //        kthSmallestElement.takeCustomInput();
-        GenerateallParentheses generateallParentheses = new GenerateallParentheses();
-        generateallParentheses.isValid("((((([{()}[]]]{{{[]}}})))))");
+//        GenerateallParentheses generateallParentheses = new GenerateallParentheses();
+//        generateallParentheses.isValid("((((([{()}[]]]{{{[]}}})))))");
+        LargestRectangleinHistogram largestRectangleinHistogram = new LargestRectangleinHistogram();
+        largestRectangleinHistogram.takeCustomInput();
     }
 }
