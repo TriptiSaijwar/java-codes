@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d19e565-c71b-4d1e-9f27-dc94a8c35316" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/EvaluateExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/MinStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/RainWaterTrapped.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/SlidingWindowMaximum.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/AddOneToNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/AntiDiagonal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/DuplicateInArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/FirstMissingInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Flip.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/HotelBookings.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/InfiniteGrid.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/LargestNumber$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/LargestNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MaxAbsoluteDifference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MaxDistance.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MaxNonNegativeSubArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MaxSumContinuosSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MaximumUnsortedSubarray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MergeIntervals$Interval.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MergeIntervals.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/MissingAndRepeatNumberArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/NextPermutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/NobleInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/PascalTriangle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Permutation.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/RotateMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/SetMatixZero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/SpiralOrderMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/TripletSumBetweenGivenRange.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/WaveArray.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/AddOneToNumber.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/AddOneToNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/AntiDiagonal.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/AntiDiagonal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/DuplicateInArray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/DuplicateInArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/FirstMissingInteger.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/FirstMissingInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/Flip.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/Flip.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/HotelBookings.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/HotelBookings.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/InfiniteGrid.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/InfiniteGrid.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/LargestNumber.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/LargestNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MaxAbsoluteDifference.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MaxAbsoluteDifference.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MaxDistance.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MaxDistance.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MaxNonNegativeSubArray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MaxNonNegativeSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MaxSumContinuosSubarray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MaxSumContinuosSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MaximumUnsortedSubarray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MaximumUnsortedSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MergeIntervals.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MergeIntervals.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/MissingAndRepeatNumberArray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/MissingAndRepeatNumberArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/NextPermutation.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/NextPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/NobleInteger.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/NobleInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/PascalTriangle.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/PascalTriangle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/Permutation.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/Permutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/SetMatixZero.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/SetMatixZero.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/SpiralOrderMatrix.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/SpiralOrderMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/TripletSumBetweenGivenRange.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/TripletSumBetweenGivenRange.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/interviewBit/WaveArray.java" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level1/WaveArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/Main.class" afterPath="$PROJECT_DIR$/out/production/test-project-java/com/company/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-    </list>
+    <list default="true" id="9d19e565-c71b-4d1e-9f27-dc94a8c35316" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
