@@ -1,7 +1,6 @@
 package com.company;
 
-import com.company.interviewBit.Level3.EvaluateExpression;
-import com.company.interviewBit.Level3.LargestRectangleinHistogram;
+import com.company.interviewBit.Level3.*;
 
 public class Main {
 
@@ -46,6 +45,17 @@ public class Main {
 //        largestRectangleinHistogram.takeCustomInput();
 //        EvaluateExpression evaluateExpression = new EvaluateExpression();
 //        evaluateExpression.takeCustomInput();
-
+//        PalindromeList palindromeList = new PalindromeList();
+//        palindromeList.input();
+//        RotateRightByK rotateRightByK = new RotateRightByK();
+//        rotateRightByK.input();
+//        AddTwoNumbersasLists addTwoNumbersasLists = new AddTwoNumbersasLists();
+//        addTwoNumbersasLists.input();
+//        PartitionList partitionList = new PartitionList();
+//        partitionList.input();
+//        InsertionSort insertionSort = new InsertionSort();
+//        insertionSort.input();
+        ReorderList reorderList = new ReorderList();
+        reorderList.input();
     }
 }
