@@ -1,6 +1,8 @@
 package com.company;
 
+import com.company.interviewBit.Level2.*;
 import com.company.interviewBit.Level3.*;
+import com.company.interviewBit.Tree.BuildTreeCartesian;
 
 public class Main {
 
@@ -55,7 +57,29 @@ public class Main {
 //        partitionList.input();
 //        InsertionSort insertionSort = new InsertionSort();
 //        insertionSort.input();
-        ReorderList reorderList = new ReorderList();
-        reorderList.input();
-    }
+//        ReorderList reorderList = new ReorderList();
+//        reorderList.input();
+//        PalindromeString palindromeString = new PalindromeString();
+//        palindromeString.input();
+//        ImplementStrStr implementStrStr = new ImplementStrStr();
+//        implementStrStr.input();
+//        ReversetheString reversetheString = new ReversetheString();
+//        reversetheString.input();
+//        CompareVersionNumbers compareVersionNumbers = new CompareVersionNumbers();
+//        compareVersionNumbers.input();
+//        ValidNumber validNumber = new ValidNumber();
+//        validNumber.input();
+//        MatrixMedian matrixMedian = new MatrixMedian();
+//        matrixMedian.input();
+//        SqrtBinarySearch sqrtBinarySearch = new SqrtBinarySearch();
+//        sqrtBinarySearch.input();
+//        Paint paint = new Paint();
+//        paint.input();
+//        DivideIntergers divideIntergers = new DivideIntergers();
+//        divideIntergers.input();
+//        DifferentBitsSumPairwise differentBitsSumPairwise = new DifferentBitsSumPairwise();
+//        differentBitsSumPairwise.input();
+        BuildTreeCartesian buildTreeCartesian = new BuildTreeCartesian();
+        buildTreeCartesian.input();
+}
 }

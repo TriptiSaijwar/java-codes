@@ -30,7 +30,7 @@ public class ReorderList {
         prev.next = reverseList(slow_ptr);
 
         ListNode current = A;
-        ListNode secondHalf = prev.next; 
+        ListNode secondHalf = prev.next;
         ListNode next1 = null,next2;
         // current != prev for even/odd
         while (current != null && current.next != null && secondHalf != null && current != prev ) {
