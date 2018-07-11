@@ -79,7 +79,11 @@ public class Main {
 //        divideIntergers.input();
 //        DifferentBitsSumPairwise differentBitsSumPairwise = new DifferentBitsSumPairwise();
 //        differentBitsSumPairwise.input();
-        BuildTreeCartesian buildTreeCartesian = new BuildTreeCartesian();
-        buildTreeCartesian.input();
+//        BuildTreeCartesian buildTreeCartesian = new BuildTreeCartesian();
+//        buildTreeCartesian.input();
+//        AddBinaryStrings addBinaryStrings = new AddBinaryStrings();
+//        addBinaryStrings.input();
+        PrettyJson prettyJson = new PrettyJson();
+        prettyJson.input();
 }
 }

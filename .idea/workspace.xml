@@ -2,51 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d19e565-c71b-4d1e-9f27-dc94a8c35316" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/commonJava/ArrayListPassAsParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Graph/CommutableIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Graph/SmallestMultipleWith01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Graph/ValidPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/AllocateBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/Atoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/CompareVersionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/CountAndSay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/DifferentBitsSumPairwise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/DivideIntergers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ImplementStrStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/LengthOfLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MatrixMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MatrixSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MaxContinuousSeriesOfOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MinXORvalue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/Numberof1Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/Paint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ReversetheString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/RotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/SingleNumber2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/SortedInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/SqrtBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/Sum3Zero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ValidIpAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ValidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/LargestAreaRectanglePermutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/LengthofLongestSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/Ways2Decode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level6/Invserions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/BuildTreeCartesian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/PostInBuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/PostOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/PreInOrderBuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/VerticalOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MultiplyStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PowerOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ZigzagString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Tree/ZigZagLevelOrderTraversalBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-project-java/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Level3/ReorderList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Level3/ReorderList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Tree/BuildTreeCartesian.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-project-java/com/company/interviewBit/Tree/BuildTreeCartesian.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/ReorderList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/interviewBit/Level3/ReorderList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,11 +26,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReversetheString.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/ReversetheString.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="366">
+              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Atoi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/Atoi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PowerOf2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PowerOf2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiplyStrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/MultiplyStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZigzagString.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/ZigzagString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrettyJson.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="492">
+              <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+              <folding>
+                <element signature="e#2411#2412#0" expanded="true" />
+                <element signature="e#2482#2483#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -73,53 +99,29 @@
       <file leaf-file-name="PalindromeString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PalindromeString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="825">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseBits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/ReverseBits.java">
+      <file leaf-file-name="ZigZagLevelOrderTraversalBT.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Tree/ZigZagLevelOrderTraversalBT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="780">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Paint.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/Paint.java">
+      <file leaf-file-name="VerticalOrderTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Tree/VerticalOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Numberof1Bits.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/Numberof1Bits.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LengthOfLastWord.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/LengthOfLastWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+            <state relative-caret-position="210">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -140,6 +142,7 @@
       <find>StringBu</find>
       <find>spaceAfterNum</find>
       <find>binarySearch</find>
+      <find>gcd</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -154,13 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/ReverseLinkedList2.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/AddTwoNumbersasLists.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/PartitionList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/InsertionSort.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/ListCycle.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/ReorderList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PalindromeString.java" />
@@ -195,7 +191,6 @@
         <option value="$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level3/MergeSort.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Tree/buildTreeCartesian.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/commonJava/ArrayListPassAsParam.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Tree/BuildTreeCartesian.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Tree/PostInBuildTree.java" />
@@ -205,6 +200,14 @@
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Graph/CommutableIslands.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/LengthOfLastWord.java" />
         <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/RomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/IntegerToRoman.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PowerOf2.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/MultiplyStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/ZigzagString.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java" />
+        <option value="$PROJECT_DIR$/src/com/company/interviewBit/Tree/ZigZagLevelOrderTraversalBT.java" />
       </list>
     </option>
   </component>
@@ -266,22 +269,6 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="interviewBit" type="462c0819:PsiDirectoryNode" />
               <item name="Graph" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewBit" type="462c0819:PsiDirectoryNode" />
-              <item name="Level1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-codes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-codes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewBit" type="462c0819:PsiDirectoryNode" />
-              <item name="Level2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-codes" type="b2602c69:ProjectViewProjectNode" />
@@ -401,7 +388,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.250342" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.07387141" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -813,22 +800,74 @@
           <properties />
           <option name="timeStamp" value="154" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="155" />
+      <option name="time" value="163" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>(int)(partition(C, C.size(), A) * B % 10000003)</expression-string>
+        <expression-string>A.charAt(0) != '{' || A.charAt(0) != '['</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>A.get(0)</expression-string>
+        <expression-string>A.charAt(0) != '['</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A.charAt(0) == '['</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>A.charAt(0)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -838,118 +877,28 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
+        <expression-string>(char)c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>stringBuilder</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stringBuilder.charAt(i-1)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>A.charAt(6)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stringTokenizerA.nextToken().replaceAll(&quot;^0+(?!$)&quot;, &quot;&quot;).equals(&quot;0&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>stringTokenizerA.nextToken().replaceAll(&quot;^0+(?!$)&quot;, &quot;&quot;)</expression-string>
+        <expression-string>Character.getNumericValue(A.charAt(i))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6/Invserions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="4981" column="30" selection-start-line="4981" selection-start-column="30" selection-end-line="4981" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/LengthofLongestSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="2879" column="23" selection-start-line="2879" selection-start-column="23" selection-end-line="2879" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/LargestAreaRectanglePermutations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level6/DynamicProgramming/Ways2Decode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level3/MergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level3/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/commonJava/ObjectPassedByValueOrReference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -961,16 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1009,13 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Tree/VerticalOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1074,13 +1006,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/Atoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1106,13 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/LongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1176,13 +1094,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-612">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PalindromeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1257,8 +1168,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        <state relative-caret-position="381">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/CompareVersionNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/AddBinaryStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="24" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+          <folding>
+            <element signature="e#1677#1678#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/Atoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/math/BigInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16415">
+          <caret line="2328" column="25" selection-start-line="2328" selection-start-column="22" selection-end-line="2328" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PowerOf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/MultiplyStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level1/HotelBookings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/ZigzagString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PrettyJson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+          <folding>
+            <element signature="e#2411#2412#0" expanded="true" />
+            <element signature="e#2482#2483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Level2/PalindromeString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Tree/VerticalOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/interviewBit/Tree/ZigZagLevelOrderTraversalBT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
