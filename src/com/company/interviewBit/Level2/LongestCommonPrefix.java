@@ -1,9 +1,12 @@
 package com.company.interviewBit.Level2;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class LongestCommonPrefix {
     public String longestCommonPrefix(ArrayList<String> A) {
+        HashMap<Integer, String> h = new HashMap<>();
+        h.put(1,"1");
         if (A == null) {
             return "";
         }

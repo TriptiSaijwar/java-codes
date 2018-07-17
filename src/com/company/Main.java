@@ -7,6 +7,9 @@ import com.company.interviewBit.Tree.BuildTreeCartesian;
 public class Main {
 
 
+    public static void test() {
+        System.out.println("Testing...");
+    }
 
     public static void main(String[] args) {
 	// write your code here
@@ -83,7 +86,8 @@ public class Main {
 //        buildTreeCartesian.input();
 //        AddBinaryStrings addBinaryStrings = new AddBinaryStrings();
 //        addBinaryStrings.input();
-        PrettyJson prettyJson = new PrettyJson();
-        prettyJson.input();
+//        PrettyJson prettyJson = new PrettyJson();
+//        prettyJson.input();
+        test();
 }
 }
