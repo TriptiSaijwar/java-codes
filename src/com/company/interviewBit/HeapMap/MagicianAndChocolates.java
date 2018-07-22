@@ -1,5 +1,7 @@
 package com.company.interviewBit.HeapMap;
 
+import com.company.interviewBit.Level1.AddOneToNumber;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.PriorityQueue;
@@ -21,5 +23,6 @@ public class MagicianAndChocolates {
         }
         ans = ans % 1000000007;
         return (int)ans;
+
     }
 }

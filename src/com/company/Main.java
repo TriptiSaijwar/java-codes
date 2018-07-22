@@ -86,8 +86,8 @@ public class Main {
 //        buildTreeCartesian.input();
 //        AddBinaryStrings addBinaryStrings = new AddBinaryStrings();
 //        addBinaryStrings.input();
-//        PrettyJson prettyJson = new PrettyJson();
-//        prettyJson.input();
+        PrettyJson prettyJson = new PrettyJson();
+        prettyJson.input();
         test();
 }
 }

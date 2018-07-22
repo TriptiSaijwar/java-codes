@@ -70,7 +70,7 @@ public class PrettyJson {
         return null;
     }
 
-    public void input() {
+     public void input() {
         prettyJSON("[\"foo\", {\"bar\":[\"baz\",null,1.0,2]}]");
     }
 }
